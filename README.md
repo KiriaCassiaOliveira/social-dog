@@ -3,4 +3,4 @@
 ## Projeto feito no Curso React da Origamid.
 
 
-<img src="./Assets/git.png" >
+<img src="../src/Assets/git.png >
